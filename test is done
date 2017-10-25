@@ -3,3 +3,4 @@ More text is written!
 Now with fixes
 Will add wrong merge comment: fixes #10 instead of fixes #9
 fixes #10
+resolves #9 
